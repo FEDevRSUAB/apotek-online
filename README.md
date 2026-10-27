@@ -1,6 +1,6 @@
 # Apotek Online RSU Aminah Blitar
 
-Aplikasi web untuk petugas farmasi: membuat resep obat kronis sesuai SEP pasien BPJS, input obatnya, lalu menyiapkan dokumen klaim ke BPJS.
+Aplikasi web untuk petugas admin farmasi: membuat resep obat kronis sesuai SEP pasien BPJS, input obatnya, lalu menyiapkan dokumen klaim ke BPJS.
 
 Untuk setup project, aturan git, dan cara rilis, baca [CONTRIBUTING.md](CONTRIBUTING.md).
 

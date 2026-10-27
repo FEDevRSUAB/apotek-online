@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-Aplikasi jalan di `http://localhost:5173`. Versi dev di server bisa dibuka di `http://192.168.0.232:3010`.
+Aplikasi jalan di `http://192.168.0.232:3010`.
 
 ## Environment
 
